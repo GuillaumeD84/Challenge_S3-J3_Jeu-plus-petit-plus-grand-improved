@@ -1,0 +1,18 @@
+body {
+  margin-left: 4px;
+}
+
+#tabResults {
+  border: 1px solid #000;
+  text-align: center;
+  padding: 0 10px;
+}
+
+th,
+td {
+  padding: 0 10px;
+}
+
+#winImage {
+  visibility: hidden;
+}
